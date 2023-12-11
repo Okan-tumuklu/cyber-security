@@ -1,2 +1,2 @@
-# siber-g-venlik
+# cyber-security
 Kendimce bir şeyler
