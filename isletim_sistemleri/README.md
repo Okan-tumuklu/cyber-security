@@ -5,6 +5,8 @@
 Linux.
 
 https://www.linuxdersleri.net/temel-linux
+__________________________________________________________________________________
+
 
 Windows:
 
@@ -17,7 +19,7 @@ tryhackme windows kullanımı: https://tryhackme.com/room/windowsfundamentals2x0
 
 tryhackme windows kullanımı: https://tryhackme.com/room/windowsfundamentals3xzx
 
-
+__________________________________________________________________________________
 
 Mac os kullanım klavuzu: https://support.apple.com/tr-tr/guide/mac-help/welcome/mac
 
