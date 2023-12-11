@@ -1,13 +1,16 @@
 # Programlama kaynakları.
 
 
-# Python kaynakları.
+Python kaynakları.
 
 Yazbel Python: https://python-istihza.yazbel.com/index.html
 
 W3school python: https://www.w3schools.com/python/default.asp
 
 Yazbel Python: https://www.youtube.com/watch?v=EzHgbO1Cee4&list=PLWctyKyPphPiul3WbHkniANLqSheBVP3O
+
+__________________________________________________________________________________
+
 
 C Kaynakları.
 
