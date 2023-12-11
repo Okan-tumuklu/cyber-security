@@ -1,2 +1,3 @@
 # cyber-security
-Kendimce bir şeyler
+
+Bu repoda siber güvenlikle ilgili kaynaklarımı paylaşıyorum.
