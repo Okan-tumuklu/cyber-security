@@ -1,7 +1,7 @@
 # Programlama kaynakları.
 
 
-Python kaynakları.
+# Python kaynakları.
 
 Yazbel Python: https://python-istihza.yazbel.com/index.html
 
