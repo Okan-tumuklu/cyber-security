@@ -9,6 +9,14 @@ Benim kendi not kitabım: https://docs.google.com/document/d/1eqzkACf-lwHDc7fAU3
 
 Kaynaklarım...
 
+#Temel network
+
+
+https://www.linuxdersleri.net/temel-linux
+
+
+# ccna seviyesi
+
 
 Vol 1: https://drive.google.com/file/d/1tkGyceWShg4oPJPVZ_UXwN-zldXrC8PI/view
 
