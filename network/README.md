@@ -9,7 +9,7 @@ Benim kendi not kitabım: https://docs.google.com/document/d/1eqzkACf-lwHDc7fAU3
 
 Kaynaklarım...
 
-#Temel network
+# Temel network
 
 
 https://www.linuxdersleri.net/temel-linux
