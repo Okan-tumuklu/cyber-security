@@ -9,8 +9,7 @@ Kaynaklarım...
 # Temel network
 
 
-https://www.linuxdersleri.net/temel-linux
-
+https://www.linuxdersleri.net/temel-network
 
 # ccna seviyesi
 
