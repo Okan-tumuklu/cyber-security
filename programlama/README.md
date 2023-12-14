@@ -1,7 +1,7 @@
 # Programlama kaynakları.
 
 
-Python kaynakları.
+# Python kaynakları.
 
 Yazbel Python: https://python-istihza.yazbel.com/index.html
 
@@ -12,7 +12,7 @@ Yakın kampüs Python: https://www.youtube.com/watch?v=EzHgbO1Cee4&list=PLWctyKy
 __________________________________________________________________________________
 
 
-C Kaynakları.
+# C Kaynakları.
 
 dennis m. ritchie How the c programing: https://kremlin.cc/k&r.pdf
 
