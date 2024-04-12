@@ -1,6 +1,11 @@
 # Programlama kaynakları.
 
 
+# Tavsiye ettiğim youtube kanalları
+
+KirmiziPatika kanalı kaliteli yazılım ve linux hakkında videolar çekiyor, kendisinin programlama eğitimlerini takip edebilirsiniz.
+https://www.youtube.com/@KirmiziPatika/featured
+
 # Python kaynakları.
 
 Yazbel Python: https://python-istihza.yazbel.com/index.html
