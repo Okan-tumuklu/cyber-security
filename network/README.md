@@ -6,14 +6,17 @@ Bu sayfada network kaynaklarımı paylaşıyorum...
 
 Kaynaklarım...
 
+
 # Temel network
 
+Linux Dersleri (Temel Network) : https://www.linuxdersleri.net/temel-network
 
-https://www.linuxdersleri.net/temel-network
+Linux Dersleri (Temel Network Video ) : https://www.youtube.com/watch?v=d30mdlHGvdg&list=PLe-saRM3WlvNJFG4DfwYzTL9P20M6DPHj
 
-# ccna seviyesi
+Siber Kampüs (CCNA Network) : https://www.youtube.com/watch?v=GIRs9cxzGjk&list=PLGWmuqrfJZRtQT4-OWQHFjGDO23rbNjMY
 
+MDUZGUNN (Network) : https://www.youtube.com/watch?v=xUkcROpslhk&list=PLXaBFPQgxYavJseF_HAXOeNH13OuHjI7s
 
-Vol 1: https://drive.google.com/file/d/1tkGyceWShg4oPJPVZ_UXwN-zldXrC8PI/view
+Deltanet : https://www.youtube.com/@DeltanetAkademi/playlists
 
-Vol 2: https://drive.google.com/file/d/1dR_GrfpSBuMM5UnP6L3Mt1257bKWwea7/view
+Okan Tümüklü (Benim sitem ;) ) : https://www.okantumuklu.com/
