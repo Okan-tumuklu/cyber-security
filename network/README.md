@@ -7,7 +7,7 @@ Bu sayfada network kaynaklarımı paylaşıyorum...
 Kaynaklarım...
 
 
-# Temel network
+# network
 
 Linux Dersleri (Temel Network) : https://www.linuxdersleri.net/temel-network
 
