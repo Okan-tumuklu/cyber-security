@@ -20,3 +20,12 @@ MDUZGUNN (Network) : https://www.youtube.com/watch?v=xUkcROpslhk&list=PLXaBFPQgx
 Deltanet : https://www.youtube.com/@DeltanetAkademi/playlists
 
 Okan Tümüklü (Benim sitem ;) ) : https://www.okantumuklu.com/
+
+
+# Nmap
+
+Tryhackme nmap : https://tryhackme.com/r/room/furthernmap
+
+Siber Kampüs : https://www.youtube.com/watch?v=8wC0746F6SQ&list=PLGWmuqrfJZRsDj0V8R2Nl-m4GQe9IIjjW
+
+Hamza Pekdoğan : https://www.youtube.com/watch?v=3Sn5LftCrmA&list=PLbnOfMfuJhJJYAPiwPLtqKiHJ_ZG6RiB4
