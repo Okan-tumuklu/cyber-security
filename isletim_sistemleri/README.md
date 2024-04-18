@@ -14,6 +14,8 @@ Sixpon - https://www.youtube.com/watch?v=n8_blVsKSRg&list=PL5e6atpW70feftvDLmqvD
 
 Sülayman Şeker - https://www.youtube.com/watch?v=331T9cLCLKs&list=PLeKWVPCoT9e1tqsgPTQabtumX6E1XpAhz&index=1
 
+Cemal Taner canlı yayınları (Linux canlı yayınları) : https://www.youtube.com/watch?v=X9bsJpMFBjY&list=PLlEN794VQ4io4DVi9duIkYFRmadgA1sDT
+
 Yusuf İpek (Linux hakkında daha fazla bilgi için) : https://www.youtube.com/@yusufipk
 
 __________________________________________________________________________________
